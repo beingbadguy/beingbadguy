@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS and NodeJS**
 
-- 💬 Ask me about **JavaScript, Css, HTML5 and GSAP**
+- 💬 Ask me about **JavaScript, Css, HTML5, GSAP and ReactJS**
 
 - 📫 How to reach me **authorisedaman@gmail.com**
 - 
