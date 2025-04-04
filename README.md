@@ -1,10 +1,10 @@
 ![logo](https://github.com/beingbadguy/beingbadguy/blob/main/GitHub_banner.png)
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" height="200px" align="right"/>
+<!-- <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" height="200px" align="right"/> -->
 
 # 💫 About Me:
-⚙️ currently diving into Next.js and loving the learning curve<br>🎓 studying computer science & engineering at BITS Ghaziabad<br>💻 reach me out at authorisedaman@gmail.com
+⚙️ Currently diving into Next.js and loving the learning curve<br>🎓 Studying computer science & engineering at BITS Ghaziabad<br>💻 Reach me out at authorisedaman@gmail.com
 
 
 # 💻 Tech Stack:
